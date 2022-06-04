@@ -42,6 +42,7 @@ TECH
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 
 Projects
 
