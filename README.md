@@ -49,4 +49,3 @@ Projects
 [![](https://img.shields.io/badge/-🌈%20WokenMeme-000)](https://wokenmeme.com)
 [![](https://img.shields.io/badge/-🌈%20WokenMeme%20Github-000)](https://github.com/elijah999mgenezis/Wokenmeme)
 
-[![](https://img.shields.io/badge/-🚗%20MobileHouse%20Threejs-000)](https://github.com/elijah999mgenezis/Threejs-MobileHouse)
