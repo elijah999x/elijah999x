@@ -44,8 +44,8 @@ TECH
 ![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 
-Projects
+<!-- Projects
 
 [![](https://img.shields.io/badge/-🌈%20WokenMeme-000)](https://wokenmeme.com)
 [![](https://img.shields.io/badge/-🌈%20WokenMeme%20Github-000)](https://github.com/elijah999mgenezis/Wokenmeme)
-
+ -->
