@@ -44,8 +44,8 @@ TECH
 ![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 
-<!-- Projects
 
-[![](https://img.shields.io/badge/-🌈%20WokenMeme-000)](https://wokenmeme.com)
-[![](https://img.shields.io/badge/-🌈%20WokenMeme%20Github-000)](https://github.com/elijah999mgenezis/Wokenmeme)
- -->
+open source projects:
+
+[![](https://img.shields.io/badge/-🌈%20FullStack%20React%20django%20boilerplate-000)](https://github.com/elijah999mgenezis/Full-stack-React-django-boilerplate)
+
