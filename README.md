@@ -7,11 +7,8 @@ LINKS
 
 LANGUAGES
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![PHP](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=GO)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
