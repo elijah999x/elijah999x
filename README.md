@@ -11,6 +11,7 @@ LANGUAGES
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=GO)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Yaml](https://img.shields.io/badge/-YAML-000?&logo=YAML)
 
