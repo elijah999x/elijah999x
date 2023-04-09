@@ -45,5 +45,4 @@ TECH
 
 open source projects:
 
-[![](https://img.shields.io/badge/-🌈%20FullStack%20React%20django%20boilerplate-000)](https://github.com/elijah999mgenezis/Full-stack-React-django-boilerplate)
-
+[![](https://img.shields.io/badge/-🌈%20React%20Graphene%20Django%20Boilerplate-000)](https://github.com/elijah999x/React-Graphene-Django-Boilerplate)
