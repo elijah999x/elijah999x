@@ -3,7 +3,6 @@ HI , I am Elijah 24, full stack web developer :rainbow:
 LINKS
 
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
-[![](https://img.shields.io/badge/-twitter-000?&logo=twitter)](https://twitter.com/ElijahMstarline)
 
 LANGUAGES
 
