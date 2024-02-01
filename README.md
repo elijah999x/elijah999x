@@ -1,4 +1,4 @@
-HI , I am ilia 25,  web developer
+HI , I am ilia , web developer
 
 LINKS
 
