@@ -1,4 +1,4 @@
-HI , I am ilia , web developer
+I'm Ilia, full-task web Developer passionated to create unique design with simple awesome user experience , i love experimenting and creating something challenging , something new, something out of box
 
 LINKS
 
