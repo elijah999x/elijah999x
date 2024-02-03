@@ -1,6 +1,6 @@
 I'm Ilia, full-task web Developer passionated to create unique design with simple awesome user experience , i love experimenting and creating something challenging , something new, something out of box
 
-LINKS
+Profile LINKS
 
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
 [![](https://img.shields.io/badge/-%20PORTFOLIO-000)](https://elijah999x.github.io/portfolio/)
