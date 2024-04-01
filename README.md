@@ -7,7 +7,6 @@ Profile LINKS
 
 My Projects
 
-[![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
 [![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractal.com)
 
 LANGUAGES
