@@ -7,7 +7,7 @@ Profile LINKS
 
 My Projects
 
-[![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractal.com)
+[![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractalq.com)
 
 LANGUAGES
 
