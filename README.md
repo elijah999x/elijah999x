@@ -5,6 +5,11 @@ Profile LINKS
 [![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
 [![](https://img.shields.io/badge/-%20PORTFOLIO-000)](https://ilia999x.github.io/portfolio/)
 
+My Projects
+
+[![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
+[![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractal.com)
+
 LANGUAGES
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
