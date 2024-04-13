@@ -13,7 +13,7 @@ LANGUAGES
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Yaml](https://img.shields.io/badge/-YAML-000?&logo=YAML)
