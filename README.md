@@ -10,7 +10,7 @@ My Projects
 [![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractalq.com)
 
 LANGUAGES
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 [![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
