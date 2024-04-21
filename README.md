@@ -1,4 +1,4 @@
-I'm Ilia, full-task web Developer passionated to create unique design with simple awesome user experience , i love experimenting and creating something challenging , something new, something out of box
+I'm Ilia, Backend web Developer passionated to create unique design with simple awesome user experience , i love experimenting and creating something challenging , something new, something out of box
 
 Profile LINKS
 
@@ -13,6 +13,7 @@ LANGUAGES
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+[[![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 [![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
