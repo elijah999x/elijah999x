@@ -1,23 +1,20 @@
-I'm Ilia, Backend web Developer passionated to create unique design with simple awesome user experience , i love experimenting and creating something challenging , something new, something out of box
+LINKS
 
-Profile LINKS
-
-[![](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
-[![](https://img.shields.io/badge/-%20PORTFOLIO-000)](https://ilia999x.github.io/portfolio/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
+[![](https://img.shields.io/badge/-%20PORTFOLIO-00ADD8?style=for-the-badge)](https://ilia999x.github.io/portfolio/)
 
 My Projects
 
-[![](https://img.shields.io/badge/-%20FractalQ-000)](https://fractalq.com)
+[![](https://img.shields.io/badge/-%20FractalQ-AD00D8?style=for-the-badge&logo=replit&logoColor=white)](https://fractalq.com)
 
 LANGUAGES
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-[![CSS](https://img.shields.io/badge/-Css-000?&logo=Css)](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-[![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
-![Yaml](https://img.shields.io/badge/-YAML-000?&logo=YAML)
+![](https://img.shields.io/badge/Shell_Script-292627?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 TECH
 
