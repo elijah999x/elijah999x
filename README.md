@@ -40,12 +40,13 @@ TECH
 <!-- ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible) -->
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-<!-- ![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs) -->
+![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 
 
-open source projects:
+<!--  open source projects:
 
-[![](https://img.shields.io/badge/-⚙️%20React%20Graphene%20Django%20Boilerplate-000)](https://github.com/ilia999x/React-Graphene-Django-Boilerplate)
-[![](https://img.shields.io/badge/-⚙️%20Golang%20Blobstore-000)](https://github.com/ilia999x/Golang-Blobstore)
+[![](https://img.shields.io/badge/-⚙️%20React%20Graphene%20Django%20Boilerplate-1a1818?style=for-the-badge)](https://github.com/ilia999x/React-Graphene-Django-Boilerplate)
+[![](https://img.shields.io/badge/-⚙️%20Golang%20Blobstore-1a1818?style=for-the-badge)](https://github.com/ilia999x/Golang-Blobstore)
+-->
 
