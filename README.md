@@ -25,15 +25,19 @@ TECH
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-<!-- ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![GraphQL](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl)
+
+<!-- ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) -->
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Redux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 <!-- ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest) -->
@@ -41,7 +45,7 @@ TECH
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![ThreeJs](https://img.shields.io/badge/-ThreeJs-000?&logo=ThreeJs)
-![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
 
 
 <!--  open source projects:
