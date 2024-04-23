@@ -20,12 +20,12 @@ TECH
 
 ![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 <!-- ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) -->
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
