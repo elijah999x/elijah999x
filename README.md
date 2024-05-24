@@ -3,10 +3,6 @@ LINKS
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-mamulashvili-713302232/)
 [![](https://img.shields.io/badge/-%20PORTFOLIO-00ADD8?style=for-the-badge)](https://ilia999x.github.io/portfolio/)
 
-My Site
-
-[![](https://img.shields.io/badge/-%20FractalQ-AD00D8?style=for-the-badge&logo=replit&logoColor=white)](https://fractalq.com)
-
 LANGUAGES
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
