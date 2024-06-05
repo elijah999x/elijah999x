@@ -14,6 +14,11 @@ LANGUAGES
 
 TECH
 
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+
 ![GCP](https://img.shields.io/badge/-GoogleCloud-000?&logo=GoogleCloud)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
@@ -33,9 +38,6 @@ TECH
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 <!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
 
-![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Redux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 <!-- ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest) -->
 <!-- ![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible) -->
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-000?&logo=Gunicorn)
